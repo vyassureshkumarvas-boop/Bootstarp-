@@ -1,0 +1,98 @@
+*{
+    padding: 0px;
+   margin: 0px;
+}
+
+body{
+    background-image: url(https://wallpapers.com/images/hd/netflix-background-gs7hjuwvv2g0e9fj.jpg) ;
+}
+.netflix__header
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+
+    
+    
+}
+.netflix__sign{
+    
+     border: none;
+    padding: 1px 20px;
+    margin: 5px;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(235, 11, 11);
+  
+}
+.header__netflex{
+    color: red;
+    font-size: 50px;
+}
+.netflix__nav{
+    display: flex;
+    justify-content: space-between;
+    
+    padding: 5px 100px ;
+    /* padding:20px; */
+
+}
+.netflix__section{
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    max-width: 500vh; 
+    height: 100vh;
+}
+.getStarted{
+    background-color: red;
+    border: none;
+    padding: 15px 50px ;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+
+}
+.email{
+    
+    background-color: black;
+    padding: 15px 80px;
+    color: white;
+    border: none;
+   border: 1px solid gray;
+   font-size: 20px;
+   border-radius: 5px;
+}
+.netflix__article{
+    padding: 5px;
+    text-align: center;
+}
+.email:focus{
+     outline: 1px solid white;
+}
+
+.h1{
+    font-size:70px;
+}
+h3{
+    font-size: 25px;
+}
+p{
+    font-size: 20px;
+}
+.netflix__select{
+    border: none;
+    padding: 3px 40px;
+    margin: 2px;
+    border-radius: 5px;
+    color: white;
+    background-color:transparent;
+    border: 1px solid gray;
+}
+option{
+    color: black;
+    background-color: white;
+}

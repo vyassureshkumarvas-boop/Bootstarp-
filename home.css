@@ -1,0 +1,111 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-image: url(https://images.wallpapersden.com/image/download/stranger-things-banner_bGltaG6UmZqaraWkpJRnamtlrWZlbWU.jpg);
+    background-attachment: fixed;
+}
+.home__header{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+   
+
+}
+.Netflix{
+    color: red;
+    /* padding: 10px; */
+    margin-left: 50px;
+}
+.nav_div,a{
+    display: flex;
+    align-items: center;
+    margin-right: 600px;
+   
+}
+.nav_div a,a{
+    margin-right: 20px;
+    color:white;
+    text-decoration: none;
+    font-size: 20px;margin-left: 30px;
+   
+    
+}
+.n{
+    color: red;
+  margin-left: 50px;
+  margin-bottom: -60px;
+  font-size: 5rem;
+  text-shadow: 0 5px 5px red, 0 5px 5px black;
+}
+.series{
+    color: white;
+    margin-left: 100px;
+    letter-spacing: 5px;
+}
+h2{
+    color:white;
+    font-size: 70px;
+}
+.Stanger{
+    margin-left: 80px;
+     margin-top: -20px;
+
+    
+}
+.Things{
+    margin-left: 150px;
+    margin-top: -70px;
+}
+p{
+    color: rgb(255, 255, 255);
+    font-size: x-large;
+    margin-top: -60px;
+    padding: 20px;
+    margin-left: 30px;
+    
+}
+.button_div{
+   border: 2px;
+   border-radius: 5px;
+    margin-top: -70px;
+    margin-left: 10px;
+  
+}
+.play {
+      margin: 50px;
+     
+     font-size: x-large;
+     color: black;
+     background-color: rgb(117, 38, 38);
+     border-radius: 5px;
+    
+
+}
+
+.list{
+     font-size: x-large;
+     color: rgb(0, 0, 0);
+     background-color: transparent;
+      background-color: rgb(139, 43, 43);
+     border-radius: 5px;
+     
+}
+.h1_footer{
+    margin-left: 40px;
+    margin-top: -20px;
+    color: white;
+}
+.popular_img{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+.watch_list{
+    padding: 10px;
+   display: flex;
+    justify-content: space-between;
+
+   
+   
+}
+    
